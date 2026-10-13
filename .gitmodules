@@ -1,0 +1,6 @@
+[submodule "UAV-DDPG"]
+	path = UAV-DDPG
+	url = https://github.com/fangvv/UAV-DDPG
+[submodule "LSTM-MADDPG-for-UAV-MEC"]
+	path = LSTM-MADDPG-for-UAV-MEC
+	url = https://github.com/amita-chauhan/LSTM-MADDPG-for-UAV-MEC.git
