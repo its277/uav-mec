@@ -31,7 +31,7 @@ class UAVEnv(object):
 
     #################### ues ####################
     #M = 4  # UE数量
-    M=8
+    M=4
     block_flag_list = np.random.randint(0, 2, M)  # 4个ue，ue的遮挡情况
     loc_ue_list = np.random.randint(0, 101, size=[M, 2])  # 位置信息:x在0-100随机
     # task_list = np.random.randint(1572864, 2097153, M)      # 随机计算任务1.5~2Mbits ->对应总任务大小60
