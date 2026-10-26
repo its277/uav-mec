@@ -1,0 +1,4 @@
+- The experiments done on this project have been done keeping the `DDPG` framework of this codebase: https://github.com/fangvv/UAV-DDPG as baseline.
+- The experiments studies different variants of the `DRL/DDPG` family as well as tests variations of the `hyper-parameters` of the baseline code.
+- As of now (October 14th,2026), two sets of experiments have been done, with same set of hyper-parameters variants, for *M=[4,8]* where `M` is the number of local users (UE).
+- The total identified hyper-parameters are 8, without SEED, 
